@@ -3,3 +3,7 @@ Number one comes before number two.
 
 Feature 1:
 Edit the file.
+
+Feature 2:
+The file had already been edited
+but I am now editing it again.
